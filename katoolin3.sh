@@ -41,5 +41,3 @@ echo "Run it with 'sudo $PROGRAM_PREFIX$PROGRAM'.";
 exit 0;
 
 ####
-
-sudo katoolin3
