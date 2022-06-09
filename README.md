@@ -8,6 +8,7 @@ Katoolin3 brings all programs available in Kali Linux to Debian and Ubuntu.
 ● updated date 06/08/2022
 
 small fix in old code
+
 old code >> https://github.com/s-h-3-l-l/katoolin3#warning-for-ubuntu-users
 
 ### Warning for Ubuntu users
