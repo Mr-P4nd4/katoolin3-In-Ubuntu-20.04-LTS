@@ -30,6 +30,7 @@ It is not recommended to install all tools.
 ### Installation
 ```
 git clone https://github.com/Mr-P4nd4/katoolin3-In-Ubuntu-20.04-LTS.git
+cd katoolin3-In-Ubuntu-20.04-LTS
 chmod +x ./katoolin3.sh
 sudo./katoolin3.sh
 ```
